@@ -1,0 +1,16 @@
+adeventtracker.spotify.com
+adclick.g.doublecklick.net
+ads-fa.spotify.com
+analytics.spotify.com
+audio2.spotify.com
+b.scorecardresearch.com
+bounceexchange.com
+bs.serving-sys.com
+content.bitsontherun.com
+core.insightexpressai.com
+2a7e9.v.fwmrm.net
+cdn.ss.anno.channel4.com
+cdn.http.anno.channel4.com
+s.youtube.com
+ads.samsungads.com
+mqtt-mini.facebook.com
